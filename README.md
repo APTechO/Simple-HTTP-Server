@@ -1,2 +1,2 @@
 # Simple-HTTP-Server
-Creating a simple HTTP Server in Java
+A simple HTTP Server in Java that sends a server request and gets a response
